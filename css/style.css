@@ -1,0 +1,122 @@
+body{
+    background: #E5E5E5;
+}
+.logo{
+    padding: 40px 84px 0;
+}
+main{
+    width: 100%;
+    display:inline-flex;
+    margin: 0 auto;
+}
+.formulario{
+    width: 75%;
+    height: 300px;
+  
+  
+}
+.mensagem{
+    width: 22%;   
+    height: 700px;
+    background: #ffffff;
+    border: 1px solid;
+    margin-right: 30px;
+    border-radius: 20px;
+    padding: 25px;
+    float: right;
+    box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+   
+}
+
+.imgfundo{
+
+ margin-top: 100px;
+   
+}
+.recebe-criptografia{
+
+   margin-top: 20px;
+   margin-left: 20px;
+}
+textarea{
+    width: 300px;
+    resize: none;
+}
+.mens01{
+    font-family: 'Inter';
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 20px;
+}
+.mens02{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+form{
+    margin-left: 200px;
+}
+form input{
+ width: 680px;
+height: 48px;
+left: 240px;
+top: 168px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 150%;
+background:#E5E5E5;
+
+color: #0A3871;
+ margin-bottom:600px;
+}
+.aviso{
+ font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+color: #495057;
+opacity: 0.8;
+margin-bottom: 5px;
+}
+
+.cria-cripto{
+    width: 328px;
+    height: 67px;
+    background: #0A3871;
+    border-radius: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #FFFFFF;
+ 
+}
+
+.reverte-cripto{
+ box-sizing: border-box;
+width: 328px;
+height: 67px;
+background: #D8DFE8;
+border: 1px solid #0A3871;
+border-radius: 20px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+text-align: center;
+
+}
